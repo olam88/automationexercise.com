@@ -995,7 +995,7 @@
     }]
   }, {
     "id": "6a31c926-2955-48c7-9c4f-93504c4b32b3",
-    "name": "1. Registering and deleting new user",
+    "name": "1. Registering new user",
     "commands": [{
       "id": "1f7ce9bd-c178-4755-a8d5-b528123cbe7c",
       "comment": "",
